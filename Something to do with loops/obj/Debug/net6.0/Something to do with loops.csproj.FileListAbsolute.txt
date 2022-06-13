@@ -1,0 +1,15 @@
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\bin\Debug\net6.0\Something to do with loops.exe
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\bin\Debug\net6.0\Something to do with loops.deps.json
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\bin\Debug\net6.0\Something to do with loops.runtimeconfig.json
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\bin\Debug\net6.0\Something to do with loops.dll
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\bin\Debug\net6.0\Something to do with loops.pdb
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\obj\Debug\net6.0\Something to do with loops.csproj.AssemblyReference.cache
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\obj\Debug\net6.0\Something to do with loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\obj\Debug\net6.0\Something to do with loops.AssemblyInfoInputs.cache
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\obj\Debug\net6.0\Something to do with loops.AssemblyInfo.cs
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\obj\Debug\net6.0\Something to do with loops.csproj.CoreCompileInputs.cache
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\obj\Debug\net6.0\Something to do with loops.dll
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\obj\Debug\net6.0\refint\Something to do with loops.dll
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\obj\Debug\net6.0\Something to do with loops.pdb
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\obj\Debug\net6.0\Something to do with loops.genruntimeconfig.cache
+C:\Users\Umer\source\repos\Something to do with loops\Something to do with loops\obj\Debug\net6.0\ref\Something to do with loops.dll

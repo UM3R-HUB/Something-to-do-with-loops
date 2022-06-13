@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Something to do with loops/1.0.0": {
+        "runtime": {
+          "Something to do with loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Something to do with loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
